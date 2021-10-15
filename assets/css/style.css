@@ -1,0 +1,21 @@
+
+h1 + p {
+    letter-spacing: 5px;
+}
+
+p span {
+    letter-spacing: normal;
+}
+
+.block-ul ul li {
+    list-style-type: georgian;
+    list-style-position: unset;
+}
+
+.block-ol ol li {
+    list-style-type: decimal-leading-zero;
+    list-style-position: inside;
+}
+
+
+
